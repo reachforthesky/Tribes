@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8dmS/GWLN7aSUnt0bkPbwl6/vH7p84fbDOftZDo7Igg=",
+  "Source": "Tribes",
+  "BasePath": "_content/Tribes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tribes\\wwwroot",
+      "Source": "Tribes",
+      "ContentRoot": "C:\\Users\\Brian\\OneDrive\\Documents\\Projects\\Tribes\\wwwroot\\",
+      "BasePath": "_content/Tribes",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Brian\\OneDrive\\Documents\\Projects\\Tribes\\wwwroot\\favicon.ico",
+      "SourceId": "Tribes",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brian\\OneDrive\\Documents\\Projects\\Tribes\\wwwroot\\",
+      "BasePath": "_content/Tribes",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
