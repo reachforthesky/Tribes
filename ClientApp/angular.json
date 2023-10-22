@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "Tribes"
+  "defaultProject": "Tribes",
+  "cli": {
+    "analytics": false
+  }
 }
